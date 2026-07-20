@@ -91,7 +91,7 @@
   },
   "devDependencies": {
     "typescript": "^5.3.0",
-    "vitest": "^4.0.16"
+    "vitest": "^3.2.6"
   },
   "dependencies": {
     "@claude-flow/mcp": "^3.0.0-alpha.8",
@@ -117,7 +117,7 @@
     "@ruvector/rvagent-wasm": "^0.1.0",
     "@ruvector/sona": "^0.1.5",
     "agentdb": "^3.0.0-alpha.11",
-    "agentic-flow": "^3.0.0-alpha.1"
+    "agentic-flow": "^2.0.14"
   },
   "publishConfig": {
     "access": "public",
