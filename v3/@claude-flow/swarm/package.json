@@ -14,7 +14,7 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.1"
   },
   "keywords": [
     "swarm",
